@@ -1,0 +1,8 @@
+{
+  "name": "service-jsonschema",
+  "version": "0.0.1",
+  "requires": true,
+  "dependencies": {
+    "ast": "5.5.2"
+  }
+}
